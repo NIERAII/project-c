@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# COMPLETE WASTE OF TIME BRUH
+**JUST WHY DID I START MAKING DISCORD CLONE**  
+  
+    
+  
+  
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
 
 ## Getting Started
 
